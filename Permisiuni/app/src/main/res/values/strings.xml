@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Permisiuni</string>
+    <string name="btn_perm">Check Permission</string>
+    <string name="btn_perm2">Request Permission</string>
+</resources>
